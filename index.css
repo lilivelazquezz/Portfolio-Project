@@ -89,7 +89,7 @@ li{
     }
 
 .svg_image{
-    width: 10%; height: auto;
+    width: 30px; height: auto;
     margin-top: -15px;
     margin-right: 7px;
     }
@@ -97,7 +97,23 @@ li{
 .bottom_row{ 
     margin-top: 5%; 
     }
+.icons{
+    margin-bottom: 10%;
+    text-align: center;
+    font-size: 1.5em;
+}
 
+i{
+    padding:5px;
+}
+
+.icons a{
+    color: #fb8598;
+}
+
+.icons a:hover{ 
+    color: #fddae0; 
+}
 
 /* =========== Queries  ==========*/
 
