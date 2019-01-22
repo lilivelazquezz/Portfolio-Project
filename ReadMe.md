@@ -4,5 +4,5 @@
 
 **This portfolio will be constantly changing.**
 
-#### _Visit my portfolio:_
+#### _Portfolio:_
 ### https://lilivelazquezz.github.io/Portfolio-Project
